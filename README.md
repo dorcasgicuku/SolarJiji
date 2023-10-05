@@ -1,0 +1,2 @@
+# SolarJiji
+SolarJiji Application
