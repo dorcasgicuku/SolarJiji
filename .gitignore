@@ -1,0 +1,5 @@
+#ignore cromwell executions and cromwell-workflows-logs
+cromwell-executions/
+cromwell-workflow-logs/
+
+*.jar
