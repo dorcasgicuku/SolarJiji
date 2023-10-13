@@ -1,0 +1,8 @@
+{
+  "fetch_data.api_fetch_data.time_data": ["01:00"],
+  "fetch_data.api_fetch_data.day_data": ["07"],
+  "fetch_data.api_fetch_data.variable_name":["total_precipitation"],
+  "fetch_data.api_fetch_data.month_data":["07"],
+  "fetch_data.api_fetch_data.year_data":["2022"]
+}
+
